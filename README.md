@@ -7,5 +7,6 @@
  5- git checkout -- . ```Restaura el ultimo commit del proyecto ```
  6- git log ```muestra todo el listado de los comits ```
  7- git commit --amend ```sirve para arreglar errores en los commits```
+ 8- git checkout -b rama-herores ```crea una nueva rama```
 
 

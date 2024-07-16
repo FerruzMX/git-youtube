@@ -12,4 +12,5 @@
  10. git merge nombre-rama ```fusiona una rama con otra rama del proyecto```
  11. git branch -d  nombre-rama ```Elimina una rama```
  12. git push ```despliega el proyecto en el repositorio remoto```
+ 13. git commit -am ```hace el add y el commit de manera simultanea```
 

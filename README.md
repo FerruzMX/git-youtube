@@ -9,6 +9,7 @@
  7. git commit --amend ```sirve para arreglar errores en los commits```
  8. git checkout -b rama-heroes ```crea una nueva rama```
  9. git checkout master ```dirige a la rama master```
- 11. git branch -d  nombre-rama ```Elimina una rama```
  10. git merge nombre-rama ```fusiona una rama con otra rama del proyecto```
+ 11. git branch -d  nombre-rama ```Elimina una rama```
+ 12. git push ```despliega el proyecto en el repositorio remoto```
 
